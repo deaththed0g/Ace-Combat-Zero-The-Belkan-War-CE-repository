@@ -6,7 +6,7 @@
 ========================================================================
 By death_the_d0g (death_the_d0g @ Twitter and deaththed0g @ Github)
 This script was written in and is best viewed on Notepad++.
-v301124
+v011224
 ]]
 
 setMethodProperty(getMainForm(), "OnCloseQuery", nil) -- Disable CE's save prompt.
@@ -258,7 +258,7 @@ if not IsAczEnvCustomEnabled then
     
 else
     
-    showMessage("<< Disable the [CUSTOM] script before activating this one first. >>")
+    showMessage("<< Disable the [EXTENDED MODIFICATIONS] script before activating this one first. >>")
     
 end
 
